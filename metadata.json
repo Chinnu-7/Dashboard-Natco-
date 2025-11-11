@@ -1,0 +1,5 @@
+{
+  "name": "School Performance Dashboard",
+  "description": "A dashboard to track and visualize school performance metrics including student participation, grade-wise performance, and detailed student data.",
+  "requestFramePermissions": []
+}
